@@ -22,13 +22,16 @@ I grew up in Los Angeles but have called New York City home for the last decade.
 
 <summary>
 
-* I can come across as blunt and as either enthusiastic or overly intense 
-* I am willing to try things even if they may fail because thought exercises can lead to different way to looking at or solving the problem 
+I can come across as blunt and as either enthusiastic or overly intense 
+</summary>
+
+I am willing to try things even if they may fail because thought exercises can lead to different way to looking at or solving the problem
+    <summary>
+
 * I like being right, but I change my mind if arguments are compelling
 * Having the right information is very important to me because I have a curious nature 
 * I enjoy conflict 
 
-</summary>
 
 ## When do you like people to approach you and how?
 
