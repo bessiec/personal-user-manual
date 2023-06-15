@@ -22,20 +22,20 @@ I grew up in Los Angeles but have called New York City home for the last decade.
 
 <summary>
 
-- I can come across as blunt and as either enthusiastic or overly intense 
-- I am willing to try things even if they may fail because thought exercises can lead to different way to looking at or solving the problem 
-- I like being right, but I change my mind if arguments are compelling
-- Having the right information is very important to me because I have a curious nature 
-- I enjoy conflict 
+* I can come across as blunt and as either enthusiastic or overly intense 
+* I am willing to try things even if they may fail because thought exercises can lead to different way to looking at or solving the problem 
+* I like being right, but I change my mind if arguments are compelling
+* Having the right information is very important to me because I have a curious nature 
+* I enjoy conflict 
 
 </summary>
 
 ## When do you like people to approach you and how?
 
 <summary>
--I like when people are prepared and come with potential solutions to workshop, even if incomplete, versus just problems
--I appreciate straight direct communication - in fact, I am not great at contextual clues 
--Credibility matters to me. If you haven’t done the work, don’t expect me to take you seriously. I expect the same from myself
+I like when people are prepared and come with potential solutions to workshop, even if incomplete, versus just problems
+I appreciate straight direct communication - in fact, I am not great at contextual clues 
+Credibility matters to me. If you haven’t done the work, don’t expect me to take you seriously. I expect the same from myself
 
     
 </summary>
