@@ -14,77 +14,108 @@ Welcome to the Personal User Manual Template! Simply click "Use this template" a
 
 ## About Me
 
+<details>
+I grew up in Los Angeles but have called New York City home for the last decade. I am Taiwanese-American. I studied Business at the UCLA-National University of Singapore joint executive MBA program. I'm a big foodie, and you can follow my [food insta](https://www.instagram.com/bessie_eats/). 
+
+## What is your style?
 
 <details>
-    <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
+- I can come across as blunt and as either enthusiastic or overly intense 
+- I am willing to try things even if they may fail because thought exercises can lead to different way to looking at or solving the problem 
+- I like being right, but I change my mind if arguments are compelling
+- Having the right information is very important to me because I have a curious nature 
+- I enjoy conflict 
+
 </details>
 
-## How to Contact Me
-
+## When do you like people to approach you and how?
 
 <details>
-    <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
+-I like when people are prepared and come with potential solutions to workshop, even if incomplete, versus just problems
+-I appreciate straight direct communication - in fact, I am not great at contextual clues 
+-Credibility matters to me. If you haven’t done the work, don’t expect me to take you seriously. I expect the same from myself
+
+    
 </details>
 
-## Preferred Working Style
-
+## What do you value? 
 
 <details>
-    <summary>Tips</summary>
-Recommended Section: This section is pretty open to interpretation. You might want to think about practical details like what time of day you focus best, or whether you have external commitments at specific times. Equally you can include more abstract details like whether you find certain kinds of collaboration helpful to get your work done (pairing or shadowing work for example).
+-Integrity and honesty 
+-Thoughtfulness and curiosity
+-Hard work combined with smart work 
+-Willingness to admit failure 
+-Flexibility and adaptability
+
 </details>
 
-## What Motivates Me
-
+## How do you like people to communicate with you?
 
 <details>
-    <summary>Tips</summary>
-Recommended Section: Think about what gives you energy in work. What, about the work that you do, motivates you to push yourself? This doesn't need to be inspirational, it can be as simple as you enjoying seeing the results. The purpose of this section is to help your line manager and squad members to gain a picture of the work each person finds meaningful and interesting.
+-I prefer e-mail for async communications - will get back within a day
+-I tend to work in pomodoros so work actually gets done, so it may take ½ hr to get back on Slack
+-I am not the most responsive on text and can forget to respond. If it’s urgent, call me
+
+    
 </details>
 
-## What Demotivates Me
-
+## Favorite working conditions
 
 <details>
-    <summary>Tips</summary>
-Recommended Section: The flip side of the above. Everyone has parts of their work they find less interesting, and they won't be the same for everyone. You never know, a task you find impossibly tedious might be something someone else really enjoys - if so, you've discovered a win-win!
+-Flexibility is most important to me 
+-I like to collaborate, but focus time is important. I try hard not to get on the “meeting treadmill” where you end up treading water with discussions but not enough time to execute 
+-Emergencies are fine, but I generally draw clear boundaries between the hours I’m working and not. I take my relationships and personal obligations very seriously and have the same respect for others.    
+    
 </details>
 
-## My Values (and what I value in others)
-
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: Accepting that we all treat each other with empathy, care and respect as a baseline. What values do you hold in the highest regard? What traits make you admire a person?
-</details>
-
-## My Blind Spots
-
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: Everyone needs help sometimes. This is a good section to list the things you know you need help with or actively want feedback on. One caveat is that listing something here doesn't automatically excuse it! If you know you need to work on a particular area then please make sure you are doing so, soliciting feedback to measure your progress.
-</details>
-
-## My Pet Peeves
-
-
-<details>
-    <summary>Tips</summary>
-Optional Section: It might be tempting to use this section to vent, that's absolutely fine but the more constructive the better. If there are simple things people can reasonably avoid doing, then list them here. Bear in mind that you will also need to also read your squad members' pet peeves section, it's a 2 way street.
-</details>
-
-## Other
+## How do you make decisions?
 
 
 <details>
-    <summary>Tips</summary>
-Optional Section: There are some sections that are deliberately omitted from this template, but which arguably should be here - depending on your role, how comfortable you are sharing with your team etc. You may want to include these or use them as inspiration for your own.
+-A mix of information and looking at future possibilities even if the data may not be available 
+-Weighing everyone’s opinions and larger context
+-I generally believe in playing the long game, but know quick wins need to be distributed on a regular cadence 
 
-- "How I like my 1:1s" - This might be more relevant for managers to set expectations of their direct reports. Although direct reports certainly should have a say in how their 1:1s are structured
-- "Quirks" - While this is a fun one, there is a temptation to hide behaviour here that probably should be worked on instead. Additionally, behaviour is complex, situation dependent and evolving. Stating you have a particular quirk makes it immutable and sets the expectation that you will always act like this. That said please feel free to include a section like this as it's a good icebreaker, and adds a personal touch. Just be aware that you might be unaware of some of your own "quirky" behaviour.
-- "How to interpret my calendar" - If you're someone with wall to wall meetings every day it might be difficult for colleagues to find a good time to speak with you. If this is the case, then this section might be helpful to outline when you typically could make time for them.
-- "What you can expect from me" - Another one that might be useful for line managers, career coaches and mentors more than ICs. You may want to use this to set expectations around how often you'll be scheduling catchups, how you share feedback and what sort of support you can offer.
+    
 </details>
+
+## How can people help you? 
+
+<details>
+-Point out what I’m not seeing. Fill me in on the details and context. If I haven’t brought it up, it is most likely I am being totally clueless. I don’t have a problem with saying I’m intentionally not doing x, y, z. 
+-Let me know if I or a situation is overwhelming them 
+    
+</details>
+
+
+## What people misunderstand about me 
+
+<details>
+-I’m willing to change my mind with facts and arguments. People mistake my enthusiasm and enjoyment of arguing for fixed ideas, but I believe one of the best things I can do is advocate for positions based on that energy and am willing to advocate for the ideas and accomplishments of others, not just my own. 
+    
+</details>
+
+    
+## Blind Spots 
+
+<details>
+-My decisiveness and presence can turn people off 
+-I can get frustrated if I perceive others are not working as hard or have the same sense of urgency as me, but I can accept that my priorities are different if I am informed of them.
+-On the flipside of that, I sometimes have trouble expressing urgency and am generally calmer as pressure goes up, but sometimes people misinterpret that as me not caring or emotionally distant vs me trying to turn down the temperature to focus. 
+
+</details>
+
+  
+## What will you not tolerate in others?
+    
+<details>
+-Unethical behavior.
+-Bigoted behavior, eg. sexism and treating people as less than based on immutable innate traits. 
+-Lack of effort with no excuses
+
+
+</details>
+
+    
+
+    
