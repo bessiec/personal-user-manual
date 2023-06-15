@@ -1,6 +1,6 @@
 # Personal User Manual Template
 
-Welcome to the Personal User Manual Template! Simply click "Use this template" above to create your own copy. You may want to read [The Pitch/Anti-Pitch for Personal User Manuals](https://medium.com/@caminmccluskey/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) first.
+Welcome to the Personal User Manual Template! Simply click "Use this template" above to create your own copy. You may want to read [The Pitch/Anti-Pitch for Personal User Manuals](https://medium.com/@caminmccluskey/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) first. Thanks to [Camin McCluskey](https://caminmccluskey.medium.com/) for this template.
 
 ### Serving Your Personal User Manual as a Website
 
